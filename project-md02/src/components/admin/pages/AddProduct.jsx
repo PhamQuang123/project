@@ -148,7 +148,7 @@ function AddProduct() {
             type="text"
             name="images"
             value={images}
-            onChange={handleInput}
+            onChange={handleInputImg}
           />
         </div>
       </form>
